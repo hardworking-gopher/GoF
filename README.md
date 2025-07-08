@@ -1,12 +1,12 @@
-# GoF Design Patterns in Golang
+# GoF design patterns in Golang
 
 A practical collection of classic Gang of Four (GoF) Design Patterns implemented in idiomatic Go (Golang). This repository serves as a personal quick reference to recall how these patterns look in Go.
 
-## What are GoF Design Patterns?
+## What are GoF design patterns?
 
 Design Patterns are common, reusable solutions to recurring problems in software design. The "Gang of Four" (GoF) refers to Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, who authored the seminal book "Design Patterns: Elements of Reusable Object-Oriented Software." Their work codified 23 classic patterns, providing a shared vocabulary and framework for developers to discuss and apply proven solutions.
 
-## How are they Grouped?
+## How are they grouped?
 
 The GoF patterns are categorized into three main types based on their purpose:
 
